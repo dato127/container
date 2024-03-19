@@ -1,0 +1,10 @@
+.bg-1 {
+    height: 300px;
+    background-color: #FFEBEB;
+}
+
+.bg-2 {
+    height: 400px;
+    background-color: #FFAAAA;
+    margin-top: 5px;
+}
